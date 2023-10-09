@@ -2,23 +2,16 @@
 //  ViewController.swift
 //  test_ios
 //
-//  Created by Ivan on 02.10.2023.
+//  Created by Ivan on 09.10.2023.
 //
 
-import Cocoa
+import UIKit
 
-class ViewController: NSViewController {
+class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
         // Do any additional setup after loading the view.
-    }
-
-    override var representedObject: Any? {
-        didSet {
-        // Update the view, if already loaded.
-        }
     }
 
 
